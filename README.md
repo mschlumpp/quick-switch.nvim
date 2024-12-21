@@ -6,7 +6,7 @@ Small minimalistic LRU buffer switcher for neovim.
 
 With lazy.nvim:
 
-```
+```lua
 {
     'mschlumpp/quick-switch.nvim',
     -- The plugin needs to keep track of buffers even if the keybind wasn't
